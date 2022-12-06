@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261705225576",
+    "project_id": "ggt-tourist-utccfp",
+    "storage_bucket": "ggt-tourist-utccfp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261705225576:android:ec025238b8a9f25498b2dd",
+        "android_client_info": {
+          "package_name": "com.example.ggt_tourist_utccfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261705225576-7h2up114j2r8hkmalqumo8aj3btrvmrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPF1gal6cQCelQLef3SjJJdrGagOsb2YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261705225576-7h2up114j2r8hkmalqumo8aj3btrvmrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802699524528",
+    "project_id": "ggt-tourgiude-utccfp",
+    "storage_bucket": "ggt-tourgiude-utccfp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802699524528:android:c6e2b0d4b03dd17042be75",
+        "android_client_info": {
+          "package_name": "com.example.ggt_tour_guide_utccfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802699524528-clfbhg745g8m94vllkgrhplvgkm7mnsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHg3wYRPfN8fj1FwBOpZqznVp1OK4a00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802699524528-clfbhg745g8m94vllkgrhplvgkm7mnsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802699524528-1u99d2lt774o1i24m0k51himqn06dn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ggtTourGuideUtccfinalproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
