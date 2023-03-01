@@ -15,4 +15,12 @@ All requirements are from Global Guide:
 * [Flutter](https://flutter.dev/)
 * [Firebase](https://firebase.google.com/)
 
-   
+## Getting Started
+
+1. install or upgrade to the latest version of Flutter. Follow these installation [here](https://docs.flutter.dev/get-started/install) if you don't already have it
+2. Clone [Tourists](https://github.com/pakjira-phr/final_project_utcc/tree/main/ggt_tourist_utccfinalproject%20copy), [Tour guides](https://github.com/pakjira-phr/final_project_utcc/tree/main/ggt_tour_guide_utccfinalproject%20copy) or [Admin](https://github.com/pakjira-phr/final_project_utcc/tree/main/ggt_admin_utccfinalproject%20copy) repository.
+3. You will need to set up before beginning this project is the set up of an [iOS simulator](https://docs.flutter.dev/get-started/install/macos#set-up-the-ios-simulator) as well as an [Android emulator](https://docs.flutter.dev/get-started/install/macos#set-up-the-android-emulator).
+4. ```cd``` into the repo folder.
+5. run ```flutter run-android``` or ```flutter run-ios``` to build the app.
+
+P.S. A Mac with XCode is required to build for iOS   
