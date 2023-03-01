@@ -1,6 +1,6 @@
 # ggt_tourist_utccfinalproject
 
-This is Flutter project.
+This is one of the applications in  my Final Year Project
 
 ## Getting Started
 
