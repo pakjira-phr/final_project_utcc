@@ -11,8 +11,8 @@ All requirements are from Global Guide:
 
 ### Built With
 
-* [![Dart][Dart]][https://dart.dev/]
-* [![Flutter][Flutter]][https://flutter.dev/]
-* [![Firebase][Firebase]][https://firebase.google.com/]
+* [Dart][https://dart.dev/]
+* [Flutter][https://flutter.dev/]
+* [Firebase][https://firebase.google.com/]
 
    
