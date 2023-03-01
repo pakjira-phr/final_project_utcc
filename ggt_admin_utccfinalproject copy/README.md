@@ -1,16 +1,12 @@
 # ggt_admin_utccfinalproject
 
-A new Flutter project.
+This is one of the applications in  my Final Year Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. install or upgrade to the latest version of Flutter. Follow these installation [here](https://docs.flutter.dev/get-started/install) if you don't already have it
+2. Clone this repository.
+3. ```cd``` into the repo folder.
+4. run ```flutter run-android``` or ```flutter run-ios``` to build the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+P.S. A Mac with XCode is required to build for iOS
