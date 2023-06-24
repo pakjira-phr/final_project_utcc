@@ -1,5 +1,5 @@
 # final_project_utcc
-This is my Final Year Project 
+This is my senior year (undergraduate program) project 
 
 ## Requirements
 This project consists of three Bangkok tourism-related applications based on user groups: 1. Tourists 2. Tour guides 3. Admin of Global Guide (Travel agents).
